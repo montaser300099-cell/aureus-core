@@ -1,4 +1,4 @@
-# Aureus Core [AUR] 
+# Aureus Core [AURE] 
 ### The Institutional-Grade SHA-256 Layer 1 Blockchain
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -12,17 +12,17 @@ Aureus Core is a high-performance, security-centric Layer 1 blockchain designed 
 ## 🌐 Official Resources
 | Resource | Link |
 | :--- | :--- |
-| **Official Website** | [https://auracoin.gt.tc](https://auracoin.gt.tc) |
-| **Block Explorer** | [https://aurascan.gt.tc](https://aurascan.gt.tc) |
+| **Official Website** | [https://aureuscoin.site](https://aureuscoin.site) |
+| **Block Explorer** | [https://explore.aureuscoin.site](https://explore.aureuscoin.site) |
 | **Source Code** | [https://github.com/sipherapex/aureus-core](https://github.com/sipherapex/aureus-core) |
 | **Technical Documentation** | [Explore /doc folder](https://github.com/sipherapex/aureus-core/tree/master/doc) |
 
 ---
 
 ## ⚙️ Technical Specifications
-* **Ticker:** `AUR`
+* **Ticker:** `AURE`
 * **Algorithm:** SHA-256 (ASIC-Optimized)
-* **Max Supply:** 31000000 AUR
+* **Max Supply:** 31000000 AURE
 * **Block Maturity:** 100 Confirmations
 * **Network Ports:** P2P: `11995` 
 
@@ -32,7 +32,7 @@ Aureus Core is a high-performance, security-centric Layer 1 blockchain designed 
 * **Taproot & Schnorr Signatures:** Enhanced privacy and smart contract efficiency.
 * **V2 P2P Transport:** Native node-to-node encryption (BIP324) to prevent traffic analysis and MitM attacks.
 * **Modern Descriptor Wallets:** Moving beyond legacy `wallet.dat` for robust hardware and multi-sig support.
-* **Strategic Ecosystem Reserve:** 500,000 AUR dedicated to infrastructure, exchange liquidity, and long-term network stability.
+* **Strategic Ecosystem Reserve:** 500,000 AURE dedicated to infrastructure, exchange liquidity, and long-term network stability.
 
 ---
 
