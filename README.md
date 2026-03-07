@@ -54,7 +54,8 @@ cd aureus-core
 mkdir build && cd build
 cp ../src/bitcoin-wallet.cpp ../src/aureus-wallet.cpp
 cp ../src/init/bitcoin-wallet.cpp ../src/init/aureus-wallet.cpp
-cmake .. -DENABLE_WALLET=ON -DBUILD_WALLET=ON -DBUILD_GUI=OFF -DENABLE_IPC=OFF -DBUILD_AUREUS_TESTS=OFF
+To bypass dependency issues with Cap'n Proto and test headers, always use the -DENABLE_IPC=OFF and -DSECP256K1_BUILD_TESTS=OFF flags during configuration.
+cmake .. -DENABLE_WALLET=ON -DBUILD_WALLET=ON -DBUILD_GUI=OFF -DENABLE_IPC=OFF -DBUILD_AUREUS_TESTS=OFF -DSECP256K1_BUILD_TESTS=OFF
 make aureusd aureus-cli aureus-tx -j$(nproc)
 Binaries (aureusd and aureus-cli) will be generated in the /bin directory.
 
