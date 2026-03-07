@@ -117,7 +117,7 @@ V_11  | AR7oERzAxoAyhmVi3dKUpf4ucxYmFnQPJG                | 500,000 | 2049
 V_12  | 59PZ5oMpMVRDVLc6z8T7vsnVFFSMDRJmaH                | 500,000 | 2050
 
 II. Mining Opportunities
-With the escrow phase concluded, we want to highlight that over 20,000,000 $AUR are ready to be mined with absolute security. The network is open, decentralized, and governed by mathematical certainty.
+With the escrow phase concluded, we want to highlight that over 20,000,000 $AURE are ready to be mined with absolute security. The network is open, decentralized, and governed by mathematical certainty.
 
 III. Official Whitepaper
 Our Whitepaper details the technical roadmap, Atomic Swap infrastructure, and our vision for a Sovereign Financial Layer.
