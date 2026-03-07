@@ -121,7 +121,7 @@ With the escrow phase concluded, we want to highlight that over 20,000,000 $AUR 
 
 III. Official Whitepaper
 Our Whitepaper details the technical roadmap, Atomic Swap infrastructure, and our vision for a Sovereign Financial Layer.
-👉 Read the AUREUS CORE Whitepaper Here
+👉 Read the AUREUS CORE Whitepaper Here https://aureuscoin.site
 
 We welcome technical scrutiny based on data. Let the work prove the value.
 
